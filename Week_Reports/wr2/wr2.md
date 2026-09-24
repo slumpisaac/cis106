@@ -10,3 +10,6 @@
 
 ## Debian Desktop
 ![debian desktop](debiandesktop.png)
+
+## Discussion Board
+![discussion board](Discussion%20Board%20.png)
