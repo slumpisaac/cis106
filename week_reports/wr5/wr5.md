@@ -12,5 +12,5 @@
 ![practice3](practice%203.png)
 
 ## Links
-![notes5](../../notes/notes5/notes5.md)
-![lab5](../../labs/lab5/lab5.md/)
+[notes5](../../notes/notes5/notes5.md)
+[lab5](../../labs/lab5/lab5.md)
