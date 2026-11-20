@@ -1,0 +1,24 @@
+All files in my home directory
+access.log, assets, .bash_aliases, .bash_history, .bash_logout, .bashrc,
+.bashrc.bk_1790193948, .cache, cis106, class, .config, .copilot, core.rb,
+core.rb.1, core.rb.2, core.rb.3, Desktop, Documents, .dotnet, Downloads, .face,
+.face.icon, .fonts, games, .gitconfig, .gnupg, Hello.sh, lab5files,
+lab5files.zip, lab6-challenge1, lab6-challenge2, .local, marstenHouse,
+marstenhouse.sh, .mozilla, music, Music, Pictures, portfolio, practicels,
+practicels.tar.xz, .profile, Public, .python_history, scripts, snap,
+sorted_access_log_by_endpoint.log, sorted_access_log_by_uname.log, .ssh,
+.sudo_as_admin_successful, .sysinfo.sh, Templates, toyota},burgers, tvos},cars,
+UsersExport.csv, UsersExport.tsv, .vboxclient-clipboard-tty2-control.pid,
+.vboxclient-clipboard-tty2-service.pid,
+.vboxclient-draganddrop-tty2-control.pid,
+.vboxclient-hostversion-tty2-control.pid, .vboxclient-seamless-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-control.pid,
+.vboxclient-vmsvga-session-tty2-service.pid, Videos, .vscode, vscode.sh,
+.vscode-shared, wallpapers, website_ch1_lab7, .wget-hsts,
+wildcard_extra_practice, wildcardpractice
+Total number of files in my home directory
+Total number of files in my home directory
+35
+Total number of files in my home directory
+Total number of files in my home directory
+33

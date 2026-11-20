@@ -1,0 +1,27 @@
+model,cylinders,hp
+Honda_Civic CVCC 33.0 4 91.00 53.00 1795. 17.5 75 Japan,,
+Honda_Civic 33.0 4 91.00 53.00 1795. 17.4 76 Japan,,
+Honda_Accord CVCC 31.5 4 98.00 68.00 2045. 18.5 77 Japan,,
+Honda_Civic CVCC 36.1 4 91.00 60.00 1800. 16.4 78 Japan,,
+Honda_Accord LX 29.5 4 98.00 68.00 2135. 16.6 78 Japan,,
+Honda_Civic 1500 gl 44.6 4 91.00 67.00 1850. 13.8 80 Japan,,
+Honda_Accord 32.4 4 107.0 72.00 2290. 17.0 80 Japan,,
+Honda_Civic 1300 35.1 4 81.00 60.00 1760. 16.1 81 Japan,,
+Honda_Prelude 33.7 4 107.0 75.00 2210. 14.4 81 Japan,,
+Honda_Accord 36.0 4 107.0 75.00 2205. 14.5 82 Japan,,
+Honda_Civic 38.0 4 91.00 67.00 1965. 15.0 82 Japan,,
+Honda_Civic (auto) 32.0 4 91.00 67.00 1965. 15.7 82 Japan,,
+Car MPG Cylinders Displacement Horsepower Weight Acceleration Model Origin,,
+Honda_Civic 24.0 4 120.0 97.00 2489. 15.0 74 Japan,,
+Honda_Civic CVCC 33.0 4 91.00 53.00 1795. 17.5 75 Japan,,
+Honda_Civic 33.0 4 91.00 53.00 1795. 17.4 76 Japan,,
+Honda_Accord CVCC 31.5 4 98.00 68.00 2045. 18.5 77 Japan,,
+Honda_Civic CVCC 36.1 4 91.00 60.00 1800. 16.4 78 Japan,,
+Honda_Accord LX 29.5 4 98.00 68.00 2135. 16.6 78 Japan,,
+Honda_Civic 1500 gl 44.6 4 91.00 67.00 1850. 13.8 80 Japan,,
+Honda_Accord 32.4 4 107.0 72.00 2290. 17.0 80 Japan,,
+Honda_Civic 1300 35.1 4 81.00 60.00 1760. 16.1 81 Japan,,
+Honda_Prelude 33.7 4 107.0 75.00 2210. 14.4 81 Japan,,
+Honda_Accord 36.0 4 107.0 75.00 2205. 14.5 82 Japan,,
+Honda_Civic 38.0 4 91.00 67.00 1965. 15.0 82 Japan,,
+Honda_Civic (auto) 32.0 4 91.00 67.00 1965. 15.7 82 Japan,,
